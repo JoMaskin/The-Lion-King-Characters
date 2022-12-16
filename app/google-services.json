@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332837436843",
+    "project_id": "thelionking-d2f48",
+    "storage_bucket": "thelionking-d2f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332837436843:android:6b8b066820c3a2719066ee",
+        "android_client_info": {
+          "package_name": "com.ymaskin.thelionking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332837436843-b62lc1o05vo4nfk0jvf0p39oc1gdma13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqK-mBpcGNMUM-39r9QUPagsQGBx6ZrgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332837436843-b62lc1o05vo4nfk0jvf0p39oc1gdma13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

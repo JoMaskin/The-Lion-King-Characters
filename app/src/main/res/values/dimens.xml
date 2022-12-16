@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="row_character_padding">16dp</dimen>
+    <dimen name="row_character_text_margin_start">16dp</dimen>
+    <dimen name="row_character_text_size">22sp</dimen>
+    <dimen name="character_details_padding">8dp</dimen>
+    <dimen name="character_details_title_margin_top">16dp</dimen>
+    <dimen name="character_details_description_margin_top">16dp</dimen>
+    <dimen name="character_details_checkbox_margin_top">16dp</dimen>
+    <dimen name="character_details_image_margin_top">82dp</dimen>
+    <dimen name="character_details_image_corner_radius">5dp</dimen>
+    <dimen name="character_details_image_elevation">8dp</dimen>
+    <dimen name="character_details_layout_margin_top">32dp</dimen>
+</resources>
